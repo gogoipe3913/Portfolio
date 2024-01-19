@@ -2,4 +2,4 @@
 Webデザイン/コーディングについて、一部の制作を含めたポートフォリオPDFです
 御入用の際はダウンロードしてご覧ください
 
-https://drive.google.com/file/d/1r9SaxYS2Jqf9Z3_z93ZnycMfySXdkn0G/view?usp=drive_link
+[↓Download Portfolio](https://drive.google.com/file/d/1sJzIESh9uciVtbywARQ0glMjwFgeydhz/view?usp=sharing)
